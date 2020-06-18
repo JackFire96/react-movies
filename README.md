@@ -1,1 +1,1 @@
-# my-react
+# react-movies
